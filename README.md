@@ -1,6 +1,6 @@
 # Web Design Guide System
 ## Introduction
-This is an interactive piano key interactive game for beginner level piano students, as a requirement to complete Full Stack Development course with Codecademmy
+This is an interactive piano key interactive game for beginner level piano students, as a project requirement to complete Full Stack Development course with Codecademmy
 
 all the base HTML and CSS was provided by codecademy, as well as a base JavaScript file
 
